@@ -1,4 +1,4 @@
-operating_system,browser,currency_code,ip_address,cpu_cores,chipset,session_duration_seconds,chipset_manufacturer,clicks,suspicious_flags,friends_count,purchases_successful,agree_to_privacy_policy,is_fraudulent
+operating_system,browser,currency_code,ip_address,cpu_cores,chipset,session_duration_seconds,chipset_manufacturer,clicks,suspicious_flags,friends_count,purchases_successful,accept_cookies,is_fraudulent
 Windows,,USD,164.29.94.215,9 cpus,Intel Core i9-11900K,245.0,Intel,3-6,0,625.0,0.0,Yes,True
 Linux,Firefox,EUR,212.114.74.220,8 cpus,Apple M2,,Apple,2-7,1,157.0,0.0,Yes,True
 Android,Brave,CHF,11.75.142.182,8 cpus,Apple M2,65.0,Apple,,0,137.0,,Yes,False
